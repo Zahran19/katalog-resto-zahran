@@ -139,7 +139,7 @@ a {
 }
 
 /* Responsif untuk perangkat mobile */
-@media (max-width: 768px) {
+@media (max-width: 700px) {
   .hero {
     padding: 30px 15px;
     font-size: 18px;
@@ -192,7 +192,7 @@ a {
 
 
 /* Responsivitas untuk ukuran layar kecil */
-@media (max-width: 768px) {
+@media (max-width: 700px) {
   #main-content {
     padding: 15px; /* Mengurangi padding pada layar kecil */
     margin: 15px; /* Menambahkan jarak lebih pada sisi kiri dan kanan */
@@ -394,7 +394,7 @@ button[type="submit"]:active {
 }
 
 /* Responsivitas untuk ukuran kecil */
-@media (max-width: 768px) {
+@media (max-width: 700px) {
   #search-input {
     max-width: 80%;  /* Memperlebar input pada layar kecil */
   }
@@ -461,7 +461,7 @@ footer {
     grid-template-columns: repeat(3, 1fr);
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 700px) {
   #menu-button {
     display: block;
     padding: 22px;
